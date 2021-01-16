@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime-page
-  logoUrl: https://raw.githubusercontent.com/cursecodes/uptime-page/master/static/c2.svg
+  logoUrl: https://raw.githubusercontent.com/cursecodes/uptime-page/master/c2.svg
   name: Uptime Page
   introTitle: "Uptimes for CC services"
   introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/cursecodes/uptime-page) to give you live updates on CC Services.
