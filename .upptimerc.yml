@@ -4,25 +4,16 @@ repo: uptime-page # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: MC Website
+    url: https://www.notion.so/Curse-SMP-3b3bc9513987492c990cff73b38c91e9
+  - name: MC Backend
+    url: https://releaseapp.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/cursecodes/uptime-page/master/static/c2.png
   name: Uptime Page
   introTitle: "Uptimes for CC services"
   introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/cursecodes/uptime-page) to give you live updates on CC Services.
