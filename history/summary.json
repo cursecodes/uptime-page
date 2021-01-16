@@ -2,7 +2,7 @@
   {
     "name": "MC Website",
     "url": "https://www.notion.so/Curse-SMP-3b3bc9513987492c990cff73b38c91e9",
-    "icon": "https://favicons.githubusercontent.com/www.notion.so",
+    "icon": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F046a8520-b926-4d48-b459-84c8e7749ad1%2F245784446ef8-7w72877nap961__1_-removebg-preview.png?table=block&id=ebd54e43-fb2c-4d6a-879e-58e51dda429a&width=40&userId=&cache=v2",
     "slug": "mc-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 316,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "time": 553,
+    "timeDay": 553,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   }
 ]
