@@ -6,6 +6,7 @@ repo: uptime-page # Your GitHub repository name
 sites:
   - name: MC Website
     url: https://www.notion.so/Curse-SMP-3b3bc9513987492c990cff73b38c91e9
+    icon: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F046a8520-b926-4d48-b459-84c8e7749ad1%2F245784446ef8-7w72877nap961__1_-removebg-preview.png?table=block&id=ebd54e43-fb2c-4d6a-879e-58e51dda429a&width=40&userId=&cache=v2
   - name: MC Backend
     url: https://releaseapp.io
 
@@ -13,7 +14,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime-page
-  logoUrl: https://raw.githubusercontent.com/cursecodes/uptime-page/master/static/c2.png
+  logoUrl: https://raw.githubusercontent.com/cursecodes/uptime-page/master/static/c2.svg
   name: Uptime Page
   introTitle: "Uptimes for CC services"
   introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/cursecodes/uptime-page) to give you live updates on CC Services.
