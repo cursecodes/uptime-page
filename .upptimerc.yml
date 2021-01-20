@@ -14,7 +14,7 @@ status-website:
   links:
     - rel: stylesheet
       href: https://fonts.googleapis.com/css?family=Inter
-  css: "font-family: Inter, sans-serif;"
+  css: "@import url(https://fonts.googleapis.com/css?family=Open+Sans); font-family: Inter, sans-serif;"
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime-page
