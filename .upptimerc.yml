@@ -11,6 +11,10 @@ sites:
     url: https://releaseapp.io
 
 status-website:
+  links:
+    - rel: stylesheet
+      href: https://fonts.googleapis.com/css?family=Inter
+  css: "font-family: Inter, sans-serif;"
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime-page
@@ -19,11 +23,9 @@ status-website:
   introTitle: "Uptimes for CC services"
   introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/cursecodes/uptime-page) to give you live updates on CC Services.
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: This page is powered by [Upptime](https://upptime.js.org)
+  footer: This page is owned by cursecode
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
