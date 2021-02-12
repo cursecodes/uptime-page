@@ -4,9 +4,9 @@
     "url": "https://www.notion.so/Curse-SMP-3b3bc9513987492c990cff73b38c91e9",
     "icon": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F046a8520-b926-4d48-b459-84c8e7749ad1%2F245784446ef8-7w72877nap961__1_-removebg-preview.png?table=block&id=ebd54e43-fb2c-4d6a-879e-58e51dda429a&width=40&userId=&cache=v2",
     "slug": "mc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 258,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   },
   {
     "name": "MC Backend",
